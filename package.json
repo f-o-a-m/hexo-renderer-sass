@@ -27,7 +27,7 @@
     "node-sass": "^4.11.0"
   },
   "peerDependencies": {
-    "hexo": ">= 1.0.0"
+    "hexo": ">= 3"
   },
   "devDependencies": {
     "chai": "^4.2.0",
